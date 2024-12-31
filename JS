@@ -1,0 +1,2 @@
+// You can add JavaScript here for interactive features, 
+// such as smooth scrolling, animations, or AJAX requests.
